@@ -4,4 +4,4 @@ This project is dealing with real world data which is related with direct market
 
 The classification goal is to predict if the client will subscribe to a term deposit. 
 
-The tast is to make the most sense of the data provided by the company. This includes exploring Bank's Marketing campaign and creating meaningful insigiths from this data. 
+The task is to make the most sense of the data provided by the company. This includes exploring Bank's Marketing campaign and creating meaningful insigiths from this data. 
